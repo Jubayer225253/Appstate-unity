@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/cezaraugusto/chrome-extension-manifest-json-schema/main/manifest/manifest.schema.v3.json",
-    "name": "C3C UFC Utility",
+    "name": "C3C-BY-MOHAMMAD-JUBAYER",
     "version": "0.0.0-TO.BE.FILLED.ON.BUILD",
     "description": "Import/export UFC file from/to C3C-supported platforms.",
     "permissions": [
